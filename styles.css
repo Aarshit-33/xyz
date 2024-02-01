@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.xyz {
+  @apply text-red-500;
+  background-color: aqua;
+}
